@@ -1,6 +1,6 @@
 # Thousand Words
 
-Converts text into an image, where colored circles and squares represent the words and punctuation of the text. [Try it today!]()
+Converts text into an image, where colored circles and squares represent the words and punctuation of the text. [Try it today!](https://wolfadex.github.io/thousand-words/)
 
 Below is what this app looks like!
 ![Picture representation of this app](./this_app_as_color.png
